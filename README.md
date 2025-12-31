@@ -17,8 +17,8 @@ Ben Ümitcan, yazılım dünyasında profesyonel bir kimlik oluşturma yolunda i
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
-![Ümitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=umitcandemirel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umitcandemirel&layout=compact&theme=radical)
+![Ümitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=umitcandemirel&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umitcandemirel&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
