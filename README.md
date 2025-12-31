@@ -23,8 +23,8 @@ Ben Ümitcan, yazılım dünyasında profesyonel bir kimlik oluşturma yolunda i
 ---
 
 ### 📫 Benimle Bağlantı Kur (Connect with me)
-- 💼 **LinkedIn:** [linkedin.com/in/umitcandemirel](https://linkedin.com/in/umitcandemirel) 
-- ✉️ **Email:** [Senin Mail Adresin]
+- 💼 **LinkedIn:** [Ümitcan Demirel](https://www.linkedin.com/in/%C3%BCmitcan-demirel-701737357/) 
+- ✉️ **Email:** - ✉️ **Email:** [umitcandemirel11@gmail.com](mailto:umitcandemirel11@gmail.com)
 
 ---
 
