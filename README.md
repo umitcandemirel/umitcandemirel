@@ -38,9 +38,8 @@ Clean code, strong system logic, and continuous improvement are my top prioritie
 
 ### 📊 GitHub İstatistikleri | GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umitcandemirel&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umitcandemirel&layout=compact&theme=dark)
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=umitcandemirel&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitcandemirel&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 ---
 
