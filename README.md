@@ -14,8 +14,11 @@ I am a self-improving developer. After mastering Python basics, I am now passion
 - Temel etiketler ve sayfa yapısı üzerine projeler geliştiriyorum. / Developing projects on basic tags and page structure.
 
 ## 🛠️ Teknolojiler & Araçlar / Technologies & Tools
-- **Languages:** Python, HTML5
-- **Tools:** VS Code, Git & GitHub
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Öne Çıkan Depolar / Featured Repositories
 - [Frontend_Projelerim](https://github.com/umitcandemirel/Frontend_Projelerim): HTML öğrenme sürecimdeki tüm çalışmalarım. / All my works from my HTML learning process.
