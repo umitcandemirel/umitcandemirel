@@ -26,7 +26,7 @@
 
 ### 🚣 Featured Project / Öne Çıkan Proje
 **World Rowing Showcase:** Modern web standartlarıyla hazırlanmış federasyon çalışması.
-- [English Version](https://github.com/umitcandemirel/frontendprojelerim/blob/main/01-HTML5/showcase/rowing-showcase.html)
+- [English Version](https://github.com/umitcandemirel/frontendprojelerim/blob/main/01-HTML5/showcase/rowing-showcase-en.html)
 - [Türkçe Versiyon](https://github.com/umitcandemirel/frontendprojelerim/blob/main/01-HTML5/showcase/rowing-showcase-tr.html)
 
 ---
