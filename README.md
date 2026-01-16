@@ -19,8 +19,8 @@
 ---
 
 ### 🚣 Featured Project / Öne Çıkan Proje
-**World Rowing Showcase:** - [English Version](https://github.com/umitcandemirel/frontendprojelerim/blob/main/01-HTML5/showcase/rowing-showcase-en.html)
-- [Türkçe Versiyon](https://github.com/umitcandemirel/frontendprojelerim/blob/main/01-HTML5/showcase/rowing-showcase-tr.html)
+**World Rowing Showcase:** - [English Version](https://github.com/umitcandemirel/Frontend_Projelerim/blob/main/01-HTML5/showcase/rowing-showcase-en.html)
+- [Türkçe Versiyon](https://github.com/umitcandemirel/Frontend_Projelerim/blob/main/01-HTML5/showcase/rowing-showcase-tr.html)
 
 ---
 
